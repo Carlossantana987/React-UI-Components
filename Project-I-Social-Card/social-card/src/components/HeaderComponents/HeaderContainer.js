@@ -16,4 +16,4 @@ const HeaderContainer = () => {
   );
 };
 
-export default { HeaderContainer };
+export default HeaderContainer;
