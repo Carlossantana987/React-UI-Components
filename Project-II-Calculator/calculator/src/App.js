@@ -6,7 +6,7 @@ import CalcDisplay from "./components/DisplayComponents/CalculatorDisplay";
 const App = () => {
   return (
     <div>
-      
+      <CalcDisplay />
     </div>
   );
 };
