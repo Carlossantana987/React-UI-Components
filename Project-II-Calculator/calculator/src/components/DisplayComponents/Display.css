@@ -1,0 +1,20 @@
+.calcDisplay {
+  height: 500px;
+  width: 400px;
+}
+
+.numDisplay {
+  width: 400px;
+  background-color: black;
+  height: 100px;
+  color: white;
+  font-size: 80px;
+  display: flex;
+  align-content: center;
+  justify-content: flex-end;
+  margin-right: 10px;
+}
+.numberRow {
+  display: flex;
+  width: 400px;
+}
